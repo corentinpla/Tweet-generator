@@ -8,8 +8,8 @@ This code proposes a generator of Tweets based on  Markov chains of order 1 and 
 
 <!-- UTILISATION -->
 ## Utilisation
-```Scrapping_twitter.py``` It presents a code to scrape the tweets of a given twitter account. This will constitute the data base to train our model. 
-```Generator_from_csv.py```It presents a code that allow us to generate our tweets.
+- ```Scrapping_twitter.py``` It presents a code to scrape the tweets of a given twitter account. This will constitute the data base to train our model. 
+- ```Generator_from_csv.py```It presents a code that allow us to generate our tweets.
 
 
 <!-- CONTACT -->
